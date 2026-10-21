@@ -23,7 +23,6 @@
 python test_runner.py
 ```
 
-Результат: 14 тестов, 14 PASS.
 
 ## Bug Report
 
