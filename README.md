@@ -1,4 +1,3 @@
-# FoodCumpusDiscount
 # FoodCampus — DiscountModule
 
 Практическое задание: реализация программного модуля по User Story и архитектуре.
