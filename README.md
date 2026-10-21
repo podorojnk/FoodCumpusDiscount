@@ -38,3 +38,4 @@ python test_runner.py
 | BUG-06 | DiscountModule.apply_student_discount | Строка из 5000 цифр | Сообщение «слишком длинный номер» | Программа упала: `ValueError: Exceeds the limit (4300 digits)` | Исправлен |
 
 ## Канбан-доска
+https://github.com/users/podorojnk/projects/10/views/1
